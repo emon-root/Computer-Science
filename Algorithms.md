@@ -9,7 +9,7 @@
 * Heap
 * Hash table
 * Map, HashMap
-* Disjoint Set, Union Find
+* Disjoint Set, Union Find (Contest)
 * Tree, Binary Tree
 * Binary Search Tree
 * Trie
@@ -19,7 +19,7 @@
 * Heavy light Decomposition
 
 **Sorting:**
-* Bubble Sort
+* Bubble Sort  (Contest)
 * Selection Sort
 * Insertion Sort
 * Quick Sort
@@ -31,7 +31,7 @@
 
 **Searching:**
 * Linear Search
-* Binary Search
+* Binary Search (Contest)
 * Ternary Search
 
 
@@ -39,7 +39,7 @@
 * Rod Cutting
 * Maximum Sum (1D, 2D)
 * Coin Change
-* Longest Common Subsequence
+* Longest Common Subsequence  (Contest)
 * Longest Increasing subsequence, Longest Decreasing Subsequence
 * Matrix Chain multiplication
 * Edit Distance
@@ -55,8 +55,8 @@
 
 **Graph Theory:**
 * Graph Representation(matrix, list/vector)
-* Breadth First Search(BFS)
-* Depth First Search(DFS)
+* Breadth First Search(BFS)  (Contest)
+* Depth First Search(DFS)  (Contest)
 * Topological Sort
 * Strongly Connected Component(SCC)
 * Minimum Spanning Tree(kruskal, prim)
@@ -74,18 +74,18 @@
 * Chinese Postman problem
 
 **Mathematics and Number Theory:**
-* GCD 
-* LCM
+* GCD   (Contest)
+* LCM   (Contest)
 * Euler Totient
-* Prime finding(sieve)
-* Prime factorization
-* Factorial
-* Fibonacci
+* Prime finding(sieve)  (Contest)
+* Prime factorization   (Contest)
+* Factorial   (Contest)
+* Fibonacci   (Contest)
 * Counting, Permutation, combination
 * Exponentiation
-* Modular Arithmetic
+* Modular Arithmetic  (Contest)
 * Euclid, Extended euclid
-* Josephus Problem
+* Josephus Problem   (Contest)
 * Farey Sequence
 * Euler's phi
 * Catalan numbers
@@ -105,7 +105,7 @@
 * Line Intersection
 * Point in a polygon
 * Area of a polygon
-* Line Sweeping
+* Line Sweeping   (Contest)
 * Polygon intersection
 * Closest Pair
 
@@ -115,7 +115,7 @@
 * Sprague-grundy Number
 
 **String:**
-* Naive String matching 
+* Naive String matching (Contest)
 * Rabin karp Algo
 * Finite Automata
 * Knuth-Marris-Pratt Algo
@@ -124,8 +124,8 @@
 * Boyer-Moore algo
 
 **Others:**
-* Recursion
-* C++ Standard Template Library(STL)
+* Recursion   (Contest)
+* C++ Standard Template Library(STL)  (Contest)
 * Backtracking
 * Hungarian Algorithm
 
